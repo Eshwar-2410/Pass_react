@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Eshwar-2410/pass_react.git/static/css/main.7cee253a.css",
+    "main.js": "/Eshwar-2410/pass_react.git/static/js/main.a9861d02.js",
+    "index.html": "/Eshwar-2410/pass_react.git/index.html",
+    "main.7cee253a.css.map": "/Eshwar-2410/pass_react.git/static/css/main.7cee253a.css.map",
+    "main.a9861d02.js.map": "/Eshwar-2410/pass_react.git/static/js/main.a9861d02.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7cee253a.css",
+    "static/js/main.a9861d02.js"
+  ]
+}
