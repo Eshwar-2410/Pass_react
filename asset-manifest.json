@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/pass_react.git/static/css/main.7cee253a.css",
-    "main.js": "/pass_react.git/static/js/main.a9861d02.js",
-    "index.html": "/pass_react.git/index.html",
-    "main.7cee253a.css.map": "/pass_react.git/static/css/main.7cee253a.css.map",
-    "main.a9861d02.js.map": "/pass_react.git/static/js/main.a9861d02.js.map"
+    "main.css": "/pass_react/static/css/main.7cee253a.css",
+    "main.js": "/pass_react/static/js/main.a9861d02.js",
+    "index.html": "/pass_react/index.html",
+    "main.7cee253a.css.map": "/pass_react/static/css/main.7cee253a.css.map",
+    "main.a9861d02.js.map": "/pass_react/static/js/main.a9861d02.js.map"
   },
   "entrypoints": [
     "static/css/main.7cee253a.css",
